@@ -28,7 +28,7 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-        "Hello! I'm Satyam Shorrf, an engineering professional with a strong academic background in both Mechanical and Software Engineering. I'm currently pursuing a Bachelor of Software Engineering from T.P. College, Madhepura, with a score of 85.75% and a CGPA of 8.03. I also hold a Diploma in Mechanical Engineering from Exalt College of Polytechnic, Vaishali.
+        "Hello! I'm Pratik Verma, an engineering professional with a strong academic background in both Mechanical and Software Engineering. I'm currently pursuing a Bachelor of Software Engineering from T.P. College, Madhepura, with a score of 85.75% and a CGPA of 8.03. I also hold a Diploma in Mechanical Engineering from Exalt College of Polytechnic, Vaishali.
 
 As a software developer, I have experience in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks such as React, Node.js, Next.js, React-Three-Fiber, and Three.js. My knowledge extends to fundamental data structures and algorithms, making me well-versed in frontend web development.
 

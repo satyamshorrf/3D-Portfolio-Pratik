@@ -314,8 +314,8 @@ const projects = [
       },
     ],
     image: "/assets/projects/ChatBot.png",
-    source_code_link: "https://github.com/satyamshorrf/Lisa-Chatbot-Virtual-Assistant",
-    deployed_link: "https://satyamshorrf.github.io/Lisa-Chatbot-Virtual-Assistant/",
+    source_code_link: "https://github.com/pratikverma/Lisa-Chatbot-Virtual-Assistant",
+    deployed_link: "https://pratikverma.github.io/Lisa-Chatbot-Virtual-Assistant/",
   },
   {
     name: "Amazon Website",
@@ -344,8 +344,8 @@ const projects = [
       },
     ],
     image: "/assets/projects/amazon.jpg",
-    source_code_link: "https://github.com/satyamshorrf/Amazon",
-    deployed_link: "https://satyamshorrf.github.io/Amazon/",
+    source_code_link: "https://github.com/pratikverma/Amazon",
+    deployed_link: "https://pratikverma.github.io/Amazon/",
   },
   {
     name: "AI Virtual Girlfriend",
@@ -431,9 +431,9 @@ const projects = [
     ],
     image: "/assets/projects/lazarev.png",
     source_code_link:
-      "https://github.com/satyamshorrf/lazarev",
+      "https://github.com/pratikverma/lazarev",
     deployed_link:
-      "https://satyamshorrf.github.io/lazarev/",
+      "https://pratikverma.github.io/lazarev/",
   },
   {
     name: "3D Animated Website",
@@ -475,7 +475,7 @@ const projects = [
     ],
     image: "/assets/projects/3D-Animated.png",
     source_code_link:
-      "https://github.com/satyamshorrf/3D-Animated-Website",
+      "https://github.com/pratikverma/3D-Animated-Website",
     deployed_link:
       "https://3-d-animated-website-ochre.vercel.app",
   },
@@ -520,7 +520,7 @@ const projects = [
     ],
     image: "/assets/projects/ThreeJS.png",
     source_code_link:
-      "https://github.com/satyamshorrf/Landing-Page-ThreeJS",
+      "https://github.com/pratikverma/Landing-Page-ThreeJS",
     deployed_link:
       "https://landing-page-three-js-eight.vercel.app",
   },
@@ -564,7 +564,7 @@ const projects = [
     ],
     image: "/assets/projects/TPC-Madhepura.png",
     source_code_link:
-      "https://github.com/satyamshorrf/TPC-Madhepura",
+      "https://github.com/pratikverma/TPC-Madhepura",
     deployed_link:
       "https://tpc-madhepura.vercel.app",
   },
@@ -608,9 +608,9 @@ const projects = [
     ],
     image: "/assets/projects/construction.png",
     source_code_link:
-      "https://github.com/satyamshorrf/Responsive-Construction-Website",
+      "https://github.com/pratikverma/Responsive-Construction-Website",
     deployed_link:
-      "https://satyamshorrf.github.io/Responsive-Construction-Website/",
+      "https://pratikverma.github.io/Responsive-Construction-Website/",
   },
 ];
 
@@ -618,22 +618,22 @@ const socials = [
   {
     id: "github",
     icon: <GithubIcon />,
-    link: "https://github.com/satyamshorrf",
+    link: "https://github.com/pratikverma",
   },
   {
     id: "linkedin",
     icon: <LinkedInIcon />,
-    link: "https://www.linkedin.com/in/satyamshorrf/",
+    link: "https://www.linkedin.com/in/pratikverma/",
   },
   {
     id: "x",
     icon: <XIcon />,
-    link: "https://twitter.com/satyamshorrf",
+    link: "https://twitter.com/pratikverma",
   },
   {
     id: "instagram",
     icon: <InstagramIcon />,
-    link: "https://instagram.com/satyamshorrf",
+    link: "https://instagram.com/pratikverma",
   },
 ];
 

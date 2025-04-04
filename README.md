@@ -32,7 +32,7 @@ You can see a live demo of the portfolio website at [ ]
 ## Getting started
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/satyamshorrf/3D-Portfolio-.git
+git clone https://github.com/pratikverma/3D-Portfolio-.git
 ```
 2. Change to the project directory:
 ```bash
@@ -55,4 +55,4 @@ The project structure is organized as follows:
 -   `pages`: Individual pages of the website.
 -   `utils`: Utility functions or helper scripts.
 ## Author
--   [@satyamshorrf](https://github.com/satyamshorrf)
+-   [@pratikverma](https://github.com/pratikverma)

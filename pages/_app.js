@@ -23,9 +23,9 @@ export default function App({ Component, pageProps }) {
 		}
 	}, [loading]);
 
-	const title = "Portfolio | Satyam Shorrf";
+	const title = "Portfolio | Pratik Verma";
 	const description =
-		"Hello! I'm Satyam Shorrf, a passionate web developer and problem solver. Welcome to my portfolio";
+		"Hello! I'm Pratik Verma, a passionate web developer and problem solver. Welcome to my portfolio";
 	const avatar =
 		"public/assets/avatar-meta.png";
 	const url = "https://3-d-portfolio-hbuqr3wbo-satyam-shorrfs-projects.vercel.app/";
@@ -50,7 +50,7 @@ export default function App({ Component, pageProps }) {
 
 				<meta property="twitter:image" content={avatar} />
 				<meta property="twitter:card" content="summary_large_image" />
-				<meta name="twitter:creator" content="@satyamshorrf" />
+				<meta name="twitter:creator" content="@pratikverma" />
 				<meta property="twitter:title" content={title} />
 				<meta property="twitter:description" content={description} />
 
