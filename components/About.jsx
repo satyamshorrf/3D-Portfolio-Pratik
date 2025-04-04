@@ -61,7 +61,7 @@ I'm actively learning and enhancing my knowledge and skills in cutting-edge tech
           ))}
         </div>
         <Link
-          href="document/Satyam-Kumar-Resume.pdf"
+          href="document/Pratik-Kumar-Resume.pdf"
           target="_blank"
           rel="noreferrer"
           className="w-fit"

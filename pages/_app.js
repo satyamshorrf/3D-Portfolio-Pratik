@@ -28,7 +28,7 @@ export default function App({ Component, pageProps }) {
 		"Hello! I'm Pratik Verma, a passionate web developer and problem solver. Welcome to my portfolio";
 	const avatar =
 		"public/assets/avatar-meta.png";
-	const url = "https://3-d-portfolio-hbuqr3wbo-satyam-shorrfs-projects.vercel.app/";
+	const url = "https://3-d-portfolio-hbuqr3wbo-Pratik-shorrfs-projects.vercel.app/";
 
 	return (
 		<>
